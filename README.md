@@ -25,3 +25,7 @@
 <img src='dice_coef.JPG' width=500px align=center>
 
 <img src='best_score_.JPG' width=900px align=center>
+
+<br>
+
+Connect me @ [LinkedIn](https://www.linkedin.com/in/karthik-kumar-billa/)
