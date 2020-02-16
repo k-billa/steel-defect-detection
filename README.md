@@ -9,7 +9,11 @@
 <img src='model_arch_new.jpg' width=800px align=middle>
 <br>
 
-**Evaluations on test set:**
+**Evaluations on test set:** Test generated from raw_train set via train_test_split
+
+<img src='test_viz.JPG' width=800px align=middle>
+
+
 <img src='test_set.JPG' width=800px align=middle>
 
 <img src='perf.JPG' width=700px align=middle>
