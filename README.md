@@ -6,10 +6,11 @@ Main Notebooks:
 2) [Inference.ipynb](https://github.com/rook0falcon/steel-defect-detection/blob/master/Inference.ipynb)
 
 Model Arch:
-<img src='model_arch_new.JPG' width=800px align=right>
+<img src='model_arch_new.jpg' width=800px align=middle>
 <br>
 Evaluations on test set:
-<img src='test_set.JPG' width=800px align=right>
-<img src='perf.JPG' width=800px align=right>
+<img src='test_set.JPG' width=800px align=middle>
 
-<img src='dice_coef.JPG' width=800px align=right>
+<img src='perf.JPG' width=500px align=middle>
+
+<img src='dice_coef.JPG' width=500px align=middle>
