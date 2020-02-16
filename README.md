@@ -8,4 +8,4 @@ Main Notebooks:
 Model Arch:
 
 
-<img src='model_arch_new.jpg' width=400px align=right style="float:right">
+<img src='model_arch_new.jpg' width=800px align=right>
