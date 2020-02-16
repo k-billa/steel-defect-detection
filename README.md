@@ -1,7 +1,7 @@
 # steel-defect-detection
-
-<img src='severstal.jpg' width=400px align=center>
-
+<p align="center">
+  <img src='severstal.jpg' width=400px align=center>
+</p>
 
 [Blog](https://medium.com/@guildbilla/steel-defect-detection-image-segmentation-using-keras-dae8b4f986f0?source=your_stories_page---------------------------)
 
