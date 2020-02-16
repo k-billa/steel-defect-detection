@@ -1,4 +1,8 @@
 # steel-defect-detection
+
+<img src='severstal.jpg' width=400px align=middle>
+
+
 [Blog](https://medium.com/@guildbilla/steel-defect-detection-image-segmentation-using-keras-dae8b4f986f0?source=your_stories_page---------------------------)
 
 **Main Notebooks:**
@@ -19,3 +23,5 @@
 <img src='perf.JPG' width=700px align=middle>
 
 <img src='dice_coef.JPG' width=500px align=middle>
+
+<img src='best_score_.JPG' width=500px align=middle>
