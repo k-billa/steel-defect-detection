@@ -1,9 +1,5 @@
 # steel-defect-detection
-<p align="center">
-  
-  ![h](https://github.com/rook0falcon/steel-defect-detection/blob/master/severstal.jpg)
-  
-  
+<p align="center">  
   <img src='https://github.com/rook0falcon/steel-defect-detection/blob/master/severstal.jpg' width=400px align=center>
 </p>
 
